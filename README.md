@@ -1,24 +1,17 @@
-# chronometer-app
+# Escopo e objetivo
 
-## Project setup
-```
-yarn install
-```
+Projeto de cronometro do "Curso Vue Js do zero ao avançado na prática" (Udemy)
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+O projeto inclui:
+(a) VueJs
+(b) Yarn
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## Iniciando...
 
-### Lints and fixes files
-```
-yarn lint
-```
+- `git clone https://github.com/thiagostudier/chronometer-app.git`
+- `cd chronometer-app`
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+> _Parte da configuração: Necessário instalar o yarn
+
+- `yarn install`
+- `yarn serve`
